@@ -1,3 +1,12 @@
+
+<h1 align="center">
+  <img alt="Hi I'm ROHAN C ANISH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Rohan+C.+Anish&center=true"> </h1>
+<p align="center">
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm ROHAN C ANISH</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
