@@ -5,12 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on HTML .
-- 🌱 I’m currently learning JAVASCRIPT
-- 👯 I’m looking to collaborate on any projects or hackathons
-- 🤔 I’m looking for help with CODING
-- 💬 Ask me about anything
+- 🔭 I’m currently working on HTML.
+- 🌱 I’m currently learning JAVASCRIPT.
+- 👯 I’m looking to collaborate on any projects or hackathons.
+- 🤔 I’m looking for help with CODING.
+- 💬 Ask me about anything.
 - 📫 How to reach me: rohancanish11@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: mitochondria is the powerhouse of the cell.
