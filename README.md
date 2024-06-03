@@ -1,32 +1,19 @@
 
 <h1 align="center">
-  <img alt="Hi I'm ROHAN C ANISH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD45&size=30&lines=Hi%2C+I'm+Rohan+C.+Anish&center=true"> </h1>
+  <img alt="Hi I'm ROHAN C ANISH I'm an aspiring Full Stack Developer from Kerala, India ." title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD45&size=30&lines=Hi%2C+I'm+Rohan+C.+Anish&center=true"> </h1>
 <p align="center">
 <h1 align="center">Hi 👋, I'm ROHAN C ANISH</h1>
 <h3 align="center">An aspiring Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohancanish&label=Profile%20views&color=0e75b6&style=flat" alt="rohancanish" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on HTML.
-- 🌱 I’m currently learning JAVASCRIPT.
-- 👯 I’m looking to collaborate on any projects or hackathons.
-- 🤔 I’m looking for help with CODING.
-- 💬 Ask me about anything.
-- 📫 How to reach me: rohancanish11@gmail.com
-- ⚡ Fun fact: mitochondria is the powerhouse of the cell.
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
