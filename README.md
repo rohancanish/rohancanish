@@ -71,3 +71,13 @@ Here are some ideas to get you started:
 
 
 ###
+
+name: Half-year calendar
+uses: lowlighter/rohancanish@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+
+###
